@@ -1,5 +1,7 @@
 # Password rotation workflow
 
+A simple password rotation workflow for AWS machines using HashiCorp Vault
+
 ## Inputs to the workflow
 
 The following input definitions apply to this workflow:
